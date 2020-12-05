@@ -1,0 +1,49 @@
+﻿#vioBtn{
+    background: url(Images/violin.jpg);
+    background-color: aqua;
+    Background-size: 200px 175px;
+    width: 200px;
+    height: 210px;
+    padding-top: 190px;
+    background-repeat: no-repeat;
+}
+
+#fluBtn {
+    background: url(Images/flute.jpg);
+    background-color: gold;
+    Background-size: 200px 175px;
+    width: 200px;
+    height: 210px;
+    padding-top: 190px;
+    background-repeat: no-repeat;
+}
+
+#ukuBtn {
+    background: url(Images/ukulele.jpg);
+    background-color: green;
+    Background-size: 200px 175px;
+    width: 200px;
+    height: 210px;
+    padding-top: 190px;
+    background-repeat: no-repeat;
+}
+
+#tmbBtn {
+    background: url(Images/trombone.jpg); 
+    background-color: tan;
+    Background-size: 200px 175px;
+    width: 200px;
+    height: 210px;
+    padding-top: 190px;
+    background-repeat: no-repeat;
+}
+
+#trumpBtn {
+    background: url(Images/trumpet.jpg);
+    background-color: crimson;
+    Background-size: 200px 175px;
+    width: 200px;
+    height: 210px;
+    padding-top: 190px;
+    background-repeat: no-repeat;
+}
